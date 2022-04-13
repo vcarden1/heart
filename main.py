@@ -1,5 +1,5 @@
 import streamlit as st
-from Pages import Home, TheData, TheModel
+from Heart import Home, TheData, TheModel
 
 THE_HOME_PAGE = Home.TheHomePage()
 THE_DATA_PAGE = TheData.TheDataPage()
